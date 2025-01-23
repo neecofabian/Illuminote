@@ -2,6 +2,8 @@
 
 A mixed-reality multiplayer game with a spark.
 
+Watch the [demo](https://www.youtube.com/watch?v=vV_ab0vMUgk)
+
 ## What is Illuminote?
 
 While Illuminote is a classic two-player top-down shooter game at heart, it shines with the following features: 
