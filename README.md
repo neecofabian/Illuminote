@@ -2,6 +2,8 @@
 
 A mixed-reality multiplayer game with a spark.
 
+Learn more on [Devpost](https://devpost.com/software/illuminote)
+
 Watch the [demo](https://www.youtube.com/watch?v=vV_ab0vMUgk)
 
 ## What is Illuminote?
